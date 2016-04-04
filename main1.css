@@ -1,0 +1,22 @@
+/*div{
+	display: block;
+	background-color: yellow;*/
+	
+	/*width: 100px;*/
+.uno{
+	display: block;
+	width: 200px;
+	height: 100px;
+	background-color: yellow;
+	border: 2px solid yellow;
+	margin-top: 10px;
+}
+.dos{
+	display: block;
+	width: 200px;
+	height: 100px;
+	background-color: red;
+	border: 2px solid red;
+	margin-top: 10px;
+}
+
